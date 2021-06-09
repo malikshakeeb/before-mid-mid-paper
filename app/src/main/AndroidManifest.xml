@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Labb1">
-        <activity android:name=".MidTerm1"></activity>
+        <activity android:name=".DemoofGit"></activity>
+        <activity android:name=".demo" />
+        <activity android:name=".MidTerm1" />
         <activity android:name=".Midterm3" />
         <activity android:name=".MidTerm" />
         <activity android:name=".Labwork" />
